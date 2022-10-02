@@ -18,7 +18,7 @@ body {
     width:50px;
     position:absolute;
     bottom:120px;
-    background:url(./800px-Parker_Solar_Probe_spacecraft_model.png);
+    background:url(../img/800px-Parker_Solar_Probe_spacecraft_model.png);
     background-repeat: no-repeat;
     background-size: 75px 99px;
 }
@@ -76,7 +76,7 @@ body {
     position:absolute;
     top:50%;
     left:50%;
-    background-image: url("img.jpg");
+    background-image: url("../img/img.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     transform:translate(-50%,-50%);
